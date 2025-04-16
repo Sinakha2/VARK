@@ -1,7 +1,9 @@
 import streamlit as st
 import pandas as pd
+import os
+os.system("pip install matplotlib")
 import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
+
 import os
 
 def safe_rerun():
