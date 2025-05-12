@@ -180,7 +180,7 @@ if os.path.exists(font_path):
 
 user_role = st.sidebar.radio("👤 نقش شما:", ["شرکت‌کننده", "سوپروایزر"])
 ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "123"
+ADMIN_PASSWORD = "Dr.DehqaniSBU"
 
 # ---------------------------
 # بخش مدیریت (سوپروایزر)
